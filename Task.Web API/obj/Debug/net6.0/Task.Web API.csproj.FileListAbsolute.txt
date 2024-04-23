@@ -1,0 +1,150 @@
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\appsettings.Development.json
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\appsettings.json
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Web API.exe
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Web API.deps.json
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Web API.runtimeconfig.json
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Web API.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Web API.pdb
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Humanizer.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Application.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Infrastructure.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Application.pdb
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Infrastructure.pdb
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.csproj.AssemblyReference.cache
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.AssemblyInfoInputs.cache
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.AssemblyInfo.cs
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.csproj.CoreCompileInputs.cache
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.MvcApplicationPartsAssemblyInfo.cs
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.MvcApplicationPartsAssemblyInfo.cache
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.Task.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.build.Task.Web API.props
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task.Web API.props
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task.Web API.props
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\scopedcss\bundle\Task.Web API.styles.css
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.csproj.CopyComplete
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.dll
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\refint\Task.Web API.dll
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.pdb
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\Task.Web API.genruntimeconfig.cache
+E:\Nashed\interview Task\Task.Web API\obj\Debug\net6.0\ref\Task.Web API.dll
+E:\Nashed\interview Task\Task.Web API\bin\Debug\net6.0\AutoMapper.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\appsettings.Development.json
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\appsettings.json
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Web API.exe
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Web API.deps.json
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Web API.runtimeconfig.json
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Web API.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Web API.pdb
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\AutoMapper.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Humanizer.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Application.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Infrastructure.dll
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Application.pdb
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Infrastructure.pdb
+E:\Nashed\interview\Task\Task.Web API\bin\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.csproj.AssemblyReference.cache
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.AssemblyInfoInputs.cache
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.AssemblyInfo.cs
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.csproj.CoreCompileInputs.cache
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.MvcApplicationPartsAssemblyInfo.cs
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.MvcApplicationPartsAssemblyInfo.cache
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.Task.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.build.Task.Web API.props
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Task.Web API.props
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Task.Web API.props
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\scopedcss\bundle\Task.Web API.styles.css
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.csproj.CopyComplete
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.dll
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\refint\Task.Web API.dll
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.pdb
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\Task.Web API.genruntimeconfig.cache
+E:\Nashed\interview\Task\Task.Web API\obj\Debug\net6.0\ref\Task.Web API.dll
