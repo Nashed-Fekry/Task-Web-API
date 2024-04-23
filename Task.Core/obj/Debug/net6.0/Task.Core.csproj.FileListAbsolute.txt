@@ -1,0 +1,28 @@
+E:\Nashed\interview Task\Task.Core\bin\Debug\net6.0\Task.Core.deps.json
+E:\Nashed\interview Task\Task.Core\bin\Debug\net6.0\Task.Core.runtimeconfig.json
+E:\Nashed\interview Task\Task.Core\bin\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview Task\Task.Core\bin\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.csproj.AssemblyReference.cache
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.AssemblyInfoInputs.cache
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.AssemblyInfo.cs
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.csproj.CoreCompileInputs.cache
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\refint\Task.Core.dll
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\Task.Core.genruntimeconfig.cache
+E:\Nashed\interview Task\Task.Core\obj\Debug\net6.0\ref\Task.Core.dll
+E:\Nashed\interview\Task\Task.Core\bin\Debug\net6.0\Task.Core.deps.json
+E:\Nashed\interview\Task\Task.Core\bin\Debug\net6.0\Task.Core.runtimeconfig.json
+E:\Nashed\interview\Task\Task.Core\bin\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview\Task\Task.Core\bin\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.csproj.AssemblyReference.cache
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.AssemblyInfoInputs.cache
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.AssemblyInfo.cs
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.csproj.CoreCompileInputs.cache
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\refint\Task.Core.dll
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\Task.Core.genruntimeconfig.cache
+E:\Nashed\interview\Task\Task.Core\obj\Debug\net6.0\ref\Task.Core.dll
