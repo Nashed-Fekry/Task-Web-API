@@ -1,0 +1,34 @@
+E:\Nashed\interview Task\Task.Application\bin\Debug\net6.0\Task.Application.deps.json
+E:\Nashed\interview Task\Task.Application\bin\Debug\net6.0\Task.Application.runtimeconfig.json
+E:\Nashed\interview Task\Task.Application\bin\Debug\net6.0\Task.Application.dll
+E:\Nashed\interview Task\Task.Application\bin\Debug\net6.0\Task.Application.pdb
+E:\Nashed\interview Task\Task.Application\bin\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview Task\Task.Application\bin\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.csproj.AssemblyReference.cache
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.AssemblyInfoInputs.cache
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.AssemblyInfo.cs
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.csproj.CoreCompileInputs.cache
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.csproj.CopyComplete
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.dll
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\refint\Task.Application.dll
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.pdb
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\Task.Application.genruntimeconfig.cache
+E:\Nashed\interview Task\Task.Application\obj\Debug\net6.0\ref\Task.Application.dll
+E:\Nashed\interview\Task\Task.Application\bin\Debug\net6.0\Task.Application.deps.json
+E:\Nashed\interview\Task\Task.Application\bin\Debug\net6.0\Task.Application.runtimeconfig.json
+E:\Nashed\interview\Task\Task.Application\bin\Debug\net6.0\Task.Application.dll
+E:\Nashed\interview\Task\Task.Application\bin\Debug\net6.0\Task.Application.pdb
+E:\Nashed\interview\Task\Task.Application\bin\Debug\net6.0\Task.Core.dll
+E:\Nashed\interview\Task\Task.Application\bin\Debug\net6.0\Task.Core.pdb
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.csproj.AssemblyReference.cache
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.AssemblyInfoInputs.cache
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.AssemblyInfo.cs
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.csproj.CoreCompileInputs.cache
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.csproj.CopyComplete
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.dll
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\refint\Task.Application.dll
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.pdb
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\Task.Application.genruntimeconfig.cache
+E:\Nashed\interview\Task\Task.Application\obj\Debug\net6.0\ref\Task.Application.dll
